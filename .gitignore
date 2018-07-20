@@ -1,0 +1,9 @@
+__pycache__
+build
+dist
+myutils.egg-info
+contacts.csv
+contacts_v2.csv
+contacts_v2.json
+contacts_v3.csv
+contacts_v4.csv
